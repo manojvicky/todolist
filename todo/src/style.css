@@ -1,0 +1,19 @@
+.margin {
+    margin-top: 10px;
+}
+
+.stylebutton {
+    float: right;
+    width: 20%;
+}
+
+.stylespan {
+    display: inline-block;
+    height: 34px;
+    vertical-align: middle;
+    line-height: 30px;
+    border: 1px solid #337ab7;
+    width: 78%;
+    border-radius: 3px;
+    margin-right: 5px;
+}
