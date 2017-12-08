@@ -8,3 +8,4 @@ https://facebook.github.io/jest/
 javascript in deep
 
 react components
+https://jwt.io/introduction/
